@@ -24,7 +24,9 @@ Curso do Bootcamp React Native Mobile Developer da [Digital Innovation One](http
 
 Neste Labs o objetivo é evoluir mais ainda seus conhecimentos em Angular e desenvolvimento Web. Aprenda uma forma avançada de gerenciamento de estado com NGRX, práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis que o Angular tem, mas que nem todo mundo conhece.
 
-<!-- <p align="center"><img src="./src/assets/readme/projeto.png" title="Clone do Instagram - DIO"></p> -->
+- [Projeto desenvolvido](https://api-previsao-tempo.vercel.app/)
+
+<p align="center"><img src="./assets/readme/projeto.gif" title="API Previsão do Tempo - DIO"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
